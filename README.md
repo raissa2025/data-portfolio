@@ -48,6 +48,10 @@ This portfolio showcases projects across:
 - 🎓 Master of Science, Data Analytics – Data Engineering (WGU)  
 - 📊 Passionate about dashboards, storytelling, and clear communication  
 - 🛠 Tools: Power BI, Tableau, Python, SQL (PostgreSQL), Excel, statistics  
-- 🌱 Actively seeking entry-level data roles  
+- 🌱 Actively seeking entry-level data roles
 
-Let’s connect on LinkedIn: **[linkedin.com/in/roza-aissaoui-273119337]**
+---
+
+## 📞 Contact
+
+LinkedIn: **[linkedin.com/in/roza-aissaoui-273119337]**
