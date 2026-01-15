@@ -1,6 +1,4 @@
-# data-portfolio
-Portfolio of data analytics and data engineering projects (Power BI, Tableau, Python, SQL, Statistics).
-# Roza – Data Analytics & Engineering Portfolio
+# Data Analytics & Engineering Portfolio
 
 Welcome to my data portfolio! I recently graduated from Western Governors University (WGU) in Data Analytics/Data Engineering, and I’m passionate about turning data into clear, actionable insights.
 
