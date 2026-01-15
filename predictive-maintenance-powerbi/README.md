@@ -16,7 +16,7 @@ This dashboard analyzes machine performance, tool wear progression, and failure 
 - **Interactive Filters:** Tool wear level, failure flag, machine type
 
 ## 🖼 Dashboard Preview  
-![Dashboard Preview](images/Predictive Maintenance Dashboard.png)
+![Dashboard Preview](images/Predictive%20Maintenance%20Dashboard.png)
 
 ## 🔍 Key Insights  
 - Type L machines show the highest failure rate  
