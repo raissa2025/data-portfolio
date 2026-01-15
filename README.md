@@ -54,4 +54,8 @@ This portfolio showcases projects across:
 
 ## 📞 Contact
 
-LinkedIn: **[linkedin.com/in/roza-aissaoui-273119337]**
+LinkedIn: https://www.linkedin.com/in/roza-aissaoui-273119337
+## 📬 Contact
+[LinkedIn Profile](https://www.linkedin.com/in/roza-aissaoui-273119337/)
+
+
