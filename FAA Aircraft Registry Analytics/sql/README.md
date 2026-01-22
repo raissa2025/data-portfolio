@@ -11,8 +11,8 @@ This folder contains **sample SQL queries** for analyzing the FAA analytics data
 
 **Notes:**
 -	Tables were created and loaded via the Python ETL pipeline:
-•	`aircraft_master` (fact table)
-•	`aircraft_reference` (dimension table)
-•	`faa_analytics` (analytics-ready table)
+•	**`aircraft_master`** (fact table)
+•	**`aircraft_reference`** (dimension table)
+•	**`faa_analytics`** (analytics-ready table)
 -	Queries are ready to run in **pgAdmin 4** or any PostgreSQL client.
 -	Numeric outputs are rounded for readability.
