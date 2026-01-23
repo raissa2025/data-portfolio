@@ -2,7 +2,7 @@
 
 This project delivers a complete data engineering workflow using the FAA Aircraft Registry dataset. It includes raw data ingestion, cleaning, and transformation in Python, loading into PostgreSQL, and building an interactive Power BI dashboard for insights into aircraft registrations, manufacturers, model diversity, and ownership distribution.
 ---
-## 📄 Executive overview, see the 
+## 📂 Executive overview
 📄[Download Executive Summary (PDF)](docs/FAA%20Aircraf%20Registry%20Executive%20Summary.pdf)
  
 ---
@@ -11,6 +11,7 @@ FAA Aircraft Registry — MASTER & ACFTREF files
 (Data snapshot: ##January 2025##)
 
 🔗 Download: https://www.faa.gov/licenses_certificates/aircraft_certification/aircraft_registry/  
+
 ---
 ## 🚀 Project Workflow
 
@@ -32,6 +33,7 @@ MASTER (Fact Table)
 - Handled missing categorical values with "UNKNOWN" and numeric with NAN
 - Normalized text fields and removed duplicates
 - Output: aircraft_master_clean.csv␠␠
+
 ACFTREF (Dimension Table)
 - Cleaned column names and data types
 - Retained manufacturer, model, engine, and weight class attributes
@@ -55,7 +57,7 @@ Join
 ## 📊 Power BI Dashboard
 
 Built a two‑page Power BI dashboard:
-### **Page 1 — Executive Overview**
+### **Page 1 – Executive Overview**
 
 - Total active aircraft
 - Total manufacturers and models
