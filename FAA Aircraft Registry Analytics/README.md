@@ -32,7 +32,7 @@ MASTER (Fact Table)
 - Converted date and numeric fields
 - Handled missing categorical values with "UNKNOWN" and numeric with NAN
 - Normalized text fields and removed duplicates
-- Output: aircraft_master_clean.csv␠␠
+- Output: aircraft_master_clean.csv
 
 ACFTREF (Dimension Table)
 - Cleaned column names and data types
@@ -43,8 +43,7 @@ ACFTREF (Dimension Table)
 Join
 - Left join MASTER with ACFTREF on mfr_mdl_code
 - Filled missing reference attributes where necessary
-- Final analytics dataset:
-•	faa_analytics_dataset.csv
+- Final analytics dataset:faa_analytics_dataset.csv
 
 ### **3. Load**
 - Created PostgreSQL tables for:
