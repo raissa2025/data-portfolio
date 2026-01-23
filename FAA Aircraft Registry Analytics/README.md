@@ -56,7 +56,7 @@ Join
 ## 📊 Power BI Dashboard
 
 Built a two‑page Power BI dashboard:
-### **Page 1 – Executive Overview**
+### ** Page 1 – Executive Overview**
 
 - Total active aircraft
 - Total manufacturers and models
