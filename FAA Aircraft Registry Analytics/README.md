@@ -26,24 +26,24 @@ FAA Aircraft Registry — MASTER & ACFTREF files
 
 ### **2. Transform**
 MASTER (Fact Table)
-- Selected relevant columns including n_number, mfr_mdl_code, dates, owner_state
-- Renamed columns to consistent snake_case
-- Filtered active aircraft only (registration_status = 'V')
-- Converted date and numeric fields
-- Handled missing categorical values with "UNKNOWN" and numeric with NAN
-- Normalized text fields and removed duplicates
-- Output: aircraft_master_clean.csv
+ - Selected relevant columns including n_number, mfr_mdl_code, dates, owner_state
+ - Renamed columns to consistent snake_case
+ - Filtered active aircraft only (registration_status = 'V')
+ - Converted date and numeric fields
+ - Handled missing categorical values with "UNKNOWN" and numeric with NAN
+ - Normalized text fields and removed duplicates
+ - Output: aircraft_master_clean.csv
 
 ACFTREF (Dimension Table)
-- Cleaned column names and data types
-- Retained manufacturer, model, engine, and weight class attributes
-- Filled missing categorical values with "UNKNOWN"
-- Dropped records with missing primary key (mfr_mdl_code)
-- Output: aircraft_reference_clean.csv
+ - Cleaned column names and data types
+ - Retained manufacturer, model, engine, and weight class attributes
+ - Filled missing categorical values with "UNKNOWN"
+ - Dropped records with missing primary key (mfr_mdl_code)
+ - Output: aircraft_reference_clean.csv
 Join
-- Left join MASTER with ACFTREF on mfr_mdl_code
-- Filled missing reference attributes where necessary
-- Final analytics dataset:faa_analytics_dataset.csv
+ - Left join MASTER with ACFTREF on mfr_mdl_code
+ - Filled missing reference attributes where necessary
+ - Final analytics dataset:faa_analytics_dataset.csv
 
 ### **3. Load**
 - Created PostgreSQL tables for:
