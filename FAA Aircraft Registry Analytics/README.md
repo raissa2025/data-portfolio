@@ -61,18 +61,18 @@ Built a two‑page Power BI dashboard:
 - Average aircraft age
 - Registrations over time
 - Weight class and category distribution
-![Overview](dashboard/Overview & Trends Dashboard.jpg)
+![Power BI Dashboard](dashboard/Overview%20&%20Trends%20Dashboard.jpg)
 
 #### **Page 2 – Manufacturers & Ownership**
 - Top manufacturers by fleet size
 - Model diversity by manufacturer
 - Aircraft ownership by state
 - Executive summary insights
-![Trends](dashboard/Technology, Market & Ownership.png)
+![Power BI Dashboard](dashboard/Technology,%20Market%20&%20Ownership.png)
 
 📄 [Download full dashboard (PDF)](dashboard/FAA Aircraft Registry Analytics Dashboard.pdf)
 
-
+---
 ## 📊 Key Insights
 - **Cessna leads the U.S. fleet** with over 71K registered aircraft.
 - **Boeing shows the highest model diversity** with 424 unique models.
