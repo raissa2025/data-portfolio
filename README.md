@@ -20,7 +20,7 @@ This portfolio showcases projects across:
 ### ✈️  Faa Aircraft Registry Analytics: End-to-End ETL Pipeline & Interactive Dashboard (Python, PostgreSQL, Power BI)
 - Status: Completed
 - Focus: Extract, cleaned, transformed, and loaded data into PostgreSQL, built an interactive dashboard
-- Folder: 
+- Folder: [FAA Aircraft Registry Analytics](./FAA%20Aircraft%20Registry%20Analytics/)
 
 ### 📊 Sales & Customer Insights Dashboard (Tableau)
 - Status: In progress  
