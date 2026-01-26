@@ -17,6 +17,11 @@ This portfolio showcases projects across:
 - Focus: Equipment failure prediction, maintenance KPIs, operational insights  
 - Folder: [`predictive-maintenance-powerbi`](./predictive-maintenance-powerbi)
 
+### ✈️  Faa Aircraft Registry Analytics: End-to-End ETL Pipeline & Interactive Dashboard (Python, PostgreSQL, Power BI)
+- Status: Completed
+- Focus: Extract, cleaned, transformed, and loaded data into PostgreSQL, built an interactive dashboard
+- Folder: 
+
 ### 📊 Sales & Customer Insights Dashboard (Tableau)
 - Status: In progress  
 - Focus: Revenue trends, customer segmentation, profitability  
