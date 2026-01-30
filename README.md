@@ -42,11 +42,6 @@ This portfolio showcases projects across:
 - Focus: Linear regression, feature impact, model interpretation  
 - Folder: [`housing-price-regression-statistics`](./housing-price-regression-statistics)
 
-### ✈️ Aircraft Maintenance & Delay Analytics (Power BI/Python)
-- Status: Planned  
-- Focus: Flight delays, maintenance events, operational efficiency  
-- Folder: [`aircraft-maintenance-delay-analytics`](./aircraft-maintenance-delay-analytics)
-
 ---
 
 ## 👩‍💻 About Me
