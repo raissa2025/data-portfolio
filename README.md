@@ -27,21 +27,6 @@ This portfolio showcases projects across:
 - Focus: Revenue trends, customer segmentation, profitability  
 - Folder: [`sales-customer-insights-tableau`](./sales-customer-insights-tableau)
 
-### 🩺 Diabetes Prediction Model (Python)
-- Status: Planned  
-- Focus: Classification model, feature importance, model evaluation  
-- Folder: [`diabetes-prediction-python`](./diabetes-prediction-python)
-
-### 🔍 Fraud Detection SQL Analysis (PostgreSQL)
-- Status: Planned  
-- Focus: Anomaly detection, joins, aggregations, fraud patterns  
-- Folder: [`fraud-detection-sql`](./fraud-detection-sql)
-
-### 🏡 Housing Price Regression Analysis (Statistics)
-- Status: Planned  
-- Focus: Linear regression, feature impact, model interpretation  
-- Folder: [`housing-price-regression-statistics`](./housing-price-regression-statistics)
-
 ---
 
 ## 👩‍💻 About Me
