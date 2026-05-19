@@ -23,9 +23,9 @@ https://medium.com/@ro.aissdz/understanding-the-7-phases-of-data-work-916827870c
 ---
 
 ### **Part 2 — My Data Analytics Journey**
-**Before You Touch Data: Business Understanding & Data Collection**
+**Before You Touch Data: Business Understanding & Data Collection**   
 
-Read the article:
+Read the article:   
 https://medium.com/@ro.aissdz/before-you-touch-data-business-understanding-data-collection-31a845fa6838
 
 ---
