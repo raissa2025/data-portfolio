@@ -17,7 +17,7 @@ https://medium.com/@ro.aissdz/turning-my-masters-degree-into-stories-dd32eacb98c
 ### **Part 1 — My Data Analytics Journey**
 **Understanding the 7 Phases of Data Work**
 
-Read the article:  
+Read the article:   
 https://medium.com/@ro.aissdz/understanding-the-7-phases-of-data-work-916827870c64
 
 ---
