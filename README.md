@@ -26,7 +26,8 @@ This portfolio showcases projects across:
 - Status: In progress  
 
 ---
-### 📁	data-analytics-knowledge-series
+### 📁	data-analytics-knowledge-series   
+A collection of articles sharing lessons from my Master’s in Data Analytics.
 
 
 
