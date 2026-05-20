@@ -22,13 +22,15 @@ This portfolio showcases projects across:
 - Focus: Extract, cleaned, transformed, and loaded data into PostgreSQL, built an interactive dashboard
 - Folder: [FAA Aircraft Registry Analytics](./FAA%20Aircraft%20Registry%20Analytics/)
 
-### 📊 Sales & Customer Insights Dashboard (Tableau)
+### 📊 Ibm HR Attrition Analytics
 - Status: In progress  
-- Focus: Revenue trends, customer segmentation, profitability  
-- Folder: [`sales-customer-insights-tableau`](./sales-customer-insights-tableau)
 
 ---
+### 📁	data-analytics-knowledge-series
 
+
+
+---
 ## 👩‍💻 About Me
 - 🎓 Master of Science, Data Analytics – Data Engineering (WGU)  
 - 📊 Passionate about dashboards, storytelling, and clear communication  
