@@ -29,6 +29,13 @@ Read the article:
 https://medium.com/@ro.aissdz/before-you-touch-data-business-understanding-data-collection-31a845fa6838
 
 ---
+### **Part 3 — My Data Analytics Journey**
+**Why Data Cleaning Takes 80% of a Data Analyst’s Time**   
+
+Read the article:
+https://medium.com/@ro.aissdz/why-data-cleaning-takes-80-of-a-data-analysts-time-fec9a913e803
+
+---
 
 ## 📅 Publishing Schedule
 
