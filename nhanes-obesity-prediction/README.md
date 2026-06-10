@@ -3,7 +3,7 @@
 ## Executive Summary
 This project analyzes U.S. population health data from NHANES to identify key factors associated with obesity and build a predictive model using demographic and body measurement variables. The model achieves strong performance and provides insights that can support public health decision making. The final logistic regression model achieved 94.2% test accuracy while identifying body measurements as the strongest predictors of obesity.
 
-[Download Executive Summary (PDF)](executive-summary.pdf)
+[📄 Download Executive Summary (PDF)](nhanes-obesity-prediction/doc/executive-summary.pdf)
 
 ---
 ## Project Overview
