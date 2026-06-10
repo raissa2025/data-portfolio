@@ -10,6 +10,76 @@ Obesity is a major public health concern in the United States. This project uses
 ---
 ## Dataset
 
+### Data Source
+
+This project uses publicly available data from the National Health and Nutrition Examination Survey (NHANES), a program conducted by the Centers for Disease Control and Prevention (CDC).
+
+NHANES combines interviews, physical examinations, and laboratory assessments to provide nationally representative health and nutrition data for the U.S. population.
+
+Survey cycles used:
+
+- 2017–2020 NHANES Cycle     
+- 2021–2023 NHANES Cycle      
+
+Official NHANES Website:
+https://wwwn.cdc.gov/nchs/nhanes/
+
+
+### Data Components
+
+Two NHANES datasets were used from each survey cycle:
+
+#### 1. Demographics (DEMO)
+
+Variables included:
+
+- Age    
+- Gender      
+- Race/Ethnicity      
+- Education Level     
+- Marital Status      
+- Income-to-Poverty Ratio (INDFMPIR)     
+
+#### 2. Body Measures (BMX)
+
+Variables included:     
+
+- Height     
+- Weight      
+- Body Mass Index (BMI)     
+- Waist Circumference     
+- Hip Circumference     
+- Arm Circumference       
+
+### Data Integration
+
+NHANES datasets contain a unique participant identifier (`SEQN`).
+
+The final dataset was created using the following process:
+
+1. Merge DEMO and BMX datasets within each survey cycle using `SEQN`     
+2. Combine both survey cycles into a single dataset      
+3. Clean and preprocess the merged data     
+4. Create the obesity target variable      
+5. Export the final dataset as `merged_data.csv`     
+
+### Data Preparation
+
+The following preprocessing steps were performed:
+
+- Removed records with missing BMI values     
+- Imputed remaining missing values     
+- Encoded categorical variables     
+- Created a binary obesity target variable (`BMI ≥ 30`)    
+
+### Final Dataset
+
+•	Rows: 15025    
+•	Columns: 13    
+•	Target Variable: Obesity     
+**Non Obese (0) = 8813   
+**Obese (1) = 6212
+
 ---
 
 ## Objectives
