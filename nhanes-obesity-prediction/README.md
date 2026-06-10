@@ -74,11 +74,11 @@ The following preprocessing steps were performed:
 
 ### Final Dataset
 
-•	Rows: 15025    
-•	Columns: 13    
-•	Target Variable: Obesity     
-   Non Obese (0) = 8813   
-   Obese (1) = 6212
+- Rows: 15025   
+- Columns: 13   
+- Target Variable: Obesity         
+    - Non Obese (0) = 8813   
+    - Obese (1) = 6212
 
 ---
 
