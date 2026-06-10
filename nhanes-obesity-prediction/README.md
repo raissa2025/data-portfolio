@@ -13,12 +13,12 @@ Obesity is a major public health concern in the United States. This project uses
 ---
 
 ## Objectives
-•	Understand demographic and physical factors associated with obesity
-•	Visualize distributions and relationships
-•	Build a predictive model
-•	Identify the strongest predictors of obesity
-•	Evaluate model performance
-•	Provide actionable insights
+•	Understand demographic and physical factors associated with obesity  
+•	Visualize distributions and relationships   
+•	Build a predictive model   
+•	Identify the strongest predictors of obesity   
+•	Evaluate model performance    
+•	Provide actionable insights    
 
 ---
 
