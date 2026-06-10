@@ -74,7 +74,7 @@ A dashboard will be added to visualize obesity trends and model predictions inte
 ---
 
 ## Business Impact
-This model can support:
+This model can support:     
 •	Early identification of at risk populations     
 •	Public health interventions    
 •	Resource planning    
@@ -89,5 +89,5 @@ This model can support:
 
 ---
 
-## OContact
+## Contact
 [LinkedIn Profile](https://www.linkedin.com/in/roza-aissaoui-273119337/)
