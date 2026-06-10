@@ -21,7 +21,7 @@ Survey cycles used:
 - 2017–2020 NHANES Cycle     
 - 2021–2023 NHANES Cycle      
 
-Official NHANES Website:
+Official NHANES Website:      
 https://wwwn.cdc.gov/nchs/nhanes/
 
 
@@ -77,8 +77,8 @@ The following preprocessing steps were performed:
 •	Rows: 15025    
 •	Columns: 13    
 •	Target Variable: Obesity     
-**Non Obese (0) = 8813   
-**Obese (1) = 6212
+   Non Obese (0) = 8813   
+   Obese (1) = 6212
 
 ---
 
