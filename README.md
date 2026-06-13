@@ -29,7 +29,7 @@ This portfolio showcases projects across:
 ### NHANES Obesity Prediction
 - Status: Completed
 - Focus: Extract, cleaned, transformed, logistic regression, model perfermance
-- Folder:  [`nhans-obesity-prediction`](./nhans-obesity-prediction)
+- Folder:  [`nhanes-obesity-prediction`](./nhanes-obesity-prediction)
 
 
 ---
