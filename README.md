@@ -20,10 +20,17 @@ This portfolio showcases projects across:
 ### ✈️  Faa Aircraft Registry Analytics: End-to-End ETL Pipeline & Interactive Dashboard (Python, PostgreSQL, Power BI)
 - Status: Completed
 - Focus: Extract, cleaned, transformed, and loaded data into PostgreSQL, built an interactive dashboard
-- Folder: [FAA Aircraft Registry Analytics](./FAA%20Aircraft%20Registry%20Analytics/)
+- Folder: [faa_aircraft_registry_analytics](./faa_aircraft_registry_analytics)
 
 ### 📊 Ibm HR Attrition Analytics
 - Status: In progress  
+
+
+### NHANES Obesity Prediction
+- Status: Completed
+- Focus: Extract, cleaned, transformed, logistic regression, model perfermance
+- Folder:  [`nhans-obesity-prediction`](./nhans-obesity-prediction)
+
 
 ---
 ### 📁	data-analytics-knowledge-series   
