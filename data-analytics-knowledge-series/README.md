@@ -37,6 +37,13 @@ https://medium.com/@ro.aissdz/why-data-cleaning-takes-80-of-a-data-analysts-time
 
 ---
 
+### **Part 4 — My Data Analytics Journey**
+**Exploratory Data Analysis: Where Data Starts Making Sense**   
+
+Read the article:         
+https://medium.com/@ro.aissdz/exploratory-data-analysis-where-data-starts-making-sense-fa9cb9f68250
+
+---
 ## 📅 Publishing Schedule
 
 New article every week.
