@@ -44,6 +44,17 @@ Read the article:
 https://medium.com/@ro.aissdz/exploratory-data-analysis-where-data-starts-making-sense-fa9cb9f68250
 
 ---
+
+### **Part 5 — My Data Analytics Journey**
+**My First Experience with Data Modeling**   
+
+Read the article:              
+https://medium.com/@ro.aissdz/my-first-experience-with-data-modeling-b539e40802af
+
+---
+
+
+
 ## 📅 Publishing Schedule
 
 New article every week.
