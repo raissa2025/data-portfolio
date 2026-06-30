@@ -52,6 +52,13 @@ Read the article:
 https://medium.com/@ro.aissdz/my-first-experience-with-data-modeling-b539e40802af
 
 ---
+### **Part 6 — My Data Analytics Journey**
+**Data Mining vs Real Insight: Avoiding False Patterns**   
+
+Read the article:                    
+https://medium.com/@ro.aissdz/data-mining-vs-real-insight-avoiding-false-patterns-02afd159b57e
+
+---
 
 
 
