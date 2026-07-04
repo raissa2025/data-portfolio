@@ -8,8 +8,7 @@ This project demonstrates how Excel can be used to transform raw sales data into
 
 ## Dashboard Preview
 
-![Sales Performance Dashboard](dashboard.png)
-
+![Interactive Excel Sales Performance Dashboard](dashboard.png)
 ---
 
 ## Executive Summary
@@ -18,21 +17,18 @@ This interactive Sales Performance Dashboard provides an overview of business pe
 
 Users can interactively filter the data by Region, Customer Segment, Product Category, and Order Date using slicers. The dashboard updates automatically, allowing decision-makers to explore different perspectives and identify performance patterns.
 
----
-
-## Project Overview
-
-The dashboard provides an executive summary of sales performance and allows users to interactively filter the data by:
-
-- Region
-- Customer Segment
-- Product Category
-- Order Date
-
-Key performance indicators (KPIs) update automatically based on the selected filters.
-
 ---- 
 
+
+## Project Objectives
+
+This project was created to:
+
+- Build an interactive sales dashboard in Microsoft Excel.
+- Transform raw transactional data into meaningful business insights.
+- Practice dashboard design using PivotTables, PivotCharts, and Slicers.
+- Present key performance indicators (KPIs) to support business decision-making.
+---- 
 ## Dashboard Features
 
 - KPI cards
@@ -59,11 +55,11 @@ Key performance indicators (KPIs) update automatically based on the selected fil
 
 ## Business Insights
 
-- Total sales reached **$2.30M** with a total profit of **$286K**, resulting in a **12.47% profit margin**.
-- **Technology** generated the highest sales and profit among all product categories.
-- The **West** region recorded the highest sales performance.
-- Sales showed an overall upward trend from **2014 to 2017**, with noticeable seasonal fluctuations.
-- The dashboard highlights the **Top 10 Products** by sales, helping identify the company's best-performing products.
+- Total sales reached **$2.30M**, generating **$286K**in profit and a **12.47% profit margin**.
+- **Technology** was the strongest-performing category, leading both sales and profitability. 
+- The **West** region consistently outperformed other regions in total sales. 
+- Sales generally increased from **2014–2017**, although seasonal fluctuations were observed throughout the period. 
+- The Top 10 Products analysis highlights the products contributing most significantly to revenue.
 
 ## Skills Demonstrated
 
@@ -79,13 +75,22 @@ Key performance indicators (KPIs) update automatically based on the selected fil
 
 ---
 
+## What I Learned
+
+Through this project, I strengthened my ability to:
+
+- Design interactive dashboards in Microsoft Excel.
+- Build KPI cards and dynamic PivotCharts.
+- Use slicers to create an intuitive user experience.
+- Transform raw sales data into actionable business insights.
+- Communicate findings through clear data visualization and storytelling.
+
+---
 ## Dataset
 
 This project uses the Superstore Sales dataset, a commonly used dataset for learning data analytics and business intelligence.
-
-- **Records:** 9,994 rows with 21 features  
-- **Source:** [Kaggle – Superstore_Dataset]
-
+You can access the dataset used in this project:    
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
 
 ---
 
@@ -98,7 +103,6 @@ This project uses the Superstore Sales dataset, a commonly used dataset for lear
 - Custom Number Formatting
 
 ---
-
 ## Files in This Repository
 
 | File | Description |
@@ -108,10 +112,18 @@ This project uses the Superstore Sales dataset, a commonly used dataset for lear
 | `Superstore.xlsx` | Source dataset |
 | `README.md` | Project documentation |
 ---
+## How to Use
+1.	Download the Excel file (.xlsx) from the repository.
+2.	Open it in Microsoft Excel.
+3.	Explore the interactive dashboard and filter data as needed.
 
-## 📬 Contact  
-If you have feedback or suggestions, feel free to open an issue or connect with me on LinkedIn:  
-[LinkedIn Profile](https://www.linkedin.com/in/roza-aissaoui-273119337/)
+---
 
-**Roza Aissaoui**
+## Connect with me
+I'm actively building data analytics projects and welcome feedback.
+LinkedIn: (https://www.linkedin.com/in/roza-aissaoui-273119337/)
+
+
+
+If you found this project helpful or interesting, consider giving it a star. It helps support my work and motivates me to create more analytics projects. ⭐
 
