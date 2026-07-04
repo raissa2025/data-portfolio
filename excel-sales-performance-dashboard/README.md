@@ -55,8 +55,6 @@ This project was created to:
 
 ## Business Insights
 
-## Business Insights
-
 - The business generated **$2.30M** in total sales and **$286K** in total profit, resulting in a **12.47% profit margin**.
 
 - **Technology** was the strongest-performing product category, generating the highest sales and profit among all categories.
