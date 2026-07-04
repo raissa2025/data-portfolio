@@ -55,12 +55,22 @@ This project was created to:
 
 ## Business Insights
 
-- Total sales reached **$2.30M**, generating **$286K**in profit and a **12.47% profit margin**.
-- **Technology** was the strongest-performing category, leading both sales and profitability. 
-- The **West** region consistently outperformed other regions in total sales. 
-- Sales generally increased from **2014–2017**, although seasonal fluctuations were observed throughout the period. 
-- The Top 10 Products analysis highlights the products contributing most significantly to revenue.
+## Business Insights
 
+- The business generated **$2.30M** in total sales and **$286K** in total profit, resulting in a **12.47% profit margin**.
+
+- **Technology** was the strongest-performing product category, generating the highest sales and profit among all categories.
+
+- The **West** region was the company's strongest-performing region, generating both the highest sales (**$725K**) and the highest profit (**$108K**). The **East** region ranked second in both measures, making these two regions the primary drivers of business performance.
+
+- Although the **Central** region generated higher sales than the **South** region, the **South** achieved greater profit. This suggests the South may have operated with higher profit margins or lower costs than the Central region.
+
+- Sales showed an overall upward trend from **2014 to 2017**, indicating steady business growth over the four-year period.
+
+- Monthly sales fluctuated throughout the year, suggesting seasonal patterns in customer purchasing behavior.
+
+- **2017** recorded the highest sales in the dataset, making it the strongest-performing year.
+  
 ## Skills Demonstrated
 
 - Microsoft Excel
