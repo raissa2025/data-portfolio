@@ -19,6 +19,7 @@ This interactive Sales Performance Dashboard provides an overview of business pe
 Users can interactively filter the data by Region, Customer Segment, Product Category, and Order Date using slicers. The dashboard updates automatically, allowing decision-makers to explore different perspectives and identify performance patterns.
 
 ---
+
 ## Project Overview
 
 The dashboard provides an executive summary of sales performance and allows users to interactively filter the data by:
@@ -29,7 +30,9 @@ The dashboard provides an executive summary of sales performance and allows user
 - Order Date
 
 Key performance indicators (KPIs) update automatically based on the selected filters.
+
 ---- 
+
 ## Dashboard Features
 
 - KPI cards
@@ -53,7 +56,8 @@ Key performance indicators (KPIs) update automatically based on the selected fil
 - How does profit margin change with different filters?
 
 ---
-### Key Business Insights
+
+## Business Insights
 
 - Total sales reached **$2.30M** with a total profit of **$286K**, resulting in a **12.47% profit margin**.
 - **Technology** generated the highest sales and profit among all product categories.
@@ -94,6 +98,7 @@ This project uses the Superstore Sales dataset, a commonly used dataset for lear
 - Custom Number Formatting
 
 ---
+
 ## Files in This Repository
 
 | File | Description |
