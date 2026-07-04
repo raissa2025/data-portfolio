@@ -79,16 +79,9 @@ Key performance indicators (KPIs) update automatically based on the selected fil
 
 This project uses the Superstore Sales dataset, a commonly used dataset for learning data analytics and business intelligence.
 
-The dataset includes:
+- **Records:** 9,994 rows with 21 features  
+- **Source:** [Kaggle – Superstore_Dataset]
 
-- Orders
-- Sales
-- Profit
-- Quantity
-- Categories
-- Regions
-- Customer Segments
-- Order Dates
 
 ---
 
@@ -111,7 +104,9 @@ The dataset includes:
 | `README.md` | Project documentation |
 ---
 
-## Author
+## 📬 Contact  
+If you have feedback or suggestions, feel free to open an issue or connect with me on LinkedIn:  
+[LinkedIn Profile](https://www.linkedin.com/in/roza-aissaoui-273119337/)
 
 **Roza Aissaoui**
 
