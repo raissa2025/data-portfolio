@@ -12,19 +12,19 @@ This portfolio showcases projects across:
 
 ## 📁 Projects
 
-### 🔧 Predictive Maintenance Dashboard (Power BI)
+### Predictive Maintenance Dashboard (Power BI)
 - Status: Completed  
 - Focus: Equipment failure prediction, maintenance KPIs, operational insights  
 - Folder: [`predictive-maintenance-powerbi`](./predictive-maintenance-powerbi)
 
-### ✈️  Faa Aircraft Registry Analytics: End-to-End ETL Pipeline & Interactive Dashboard (Python, PostgreSQL, Power BI)
+###  Faa Aircraft Registry Analytics: End-to-End ETL Pipeline & Interactive Dashboard (Python, PostgreSQL, Power BI)
 - Status: Completed
 - Focus: Extract, cleaned, transformed, and loaded data into PostgreSQL, built an interactive dashboard
 - Folder: [faa_aircraft_registry_analytics](./faa_aircraft_registry_analytics)
 
-### 📊 Ibm HR Attrition Analytics
+###  Ibm HR Attrition Analytics
 - Status: In progress  
-
+---
 
 ### NHANES Obesity Prediction
 - Status: Completed
