@@ -117,7 +117,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
 |------|-------------|
 | `Dashboard.xlsx` | Interactive Excel dashboard |
 | `dashboard.png` | Dashboard preview image |
-| `Superstore.xlsx` | Source dataset |
+| `Sample - Superstore.csv` | Source dataset |
 | `README.md` | Project documentation |
 ---
 ## How to Use
@@ -128,7 +128,7 @@ https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
 ---
 
 ## Connect with me
-I'm actively building data analytics projects and welcome feedback.
+I'm actively building data analytics projects and welcome feedback.        
 LinkedIn: (https://www.linkedin.com/in/roza-aissaoui-273119337/)
 
 
