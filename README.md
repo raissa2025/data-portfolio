@@ -33,6 +33,15 @@ This portfolio showcases projects across:
 
 
 ---
+### Sales Performance Dashboard (Excel)
+
+- Status: Completed
+- Focus: Sales performance monitoring, profitability analysis, regional insights
+- Skills: Excel, PivotTables, PivotCharts, Slicers, KPI Dashboard, Data Visualization
+- Folder: ['excel-sales-performance-dashboard'](./excel-sales-performance-dashboard)
+
+---
+  
 ### 📁	data-analytics-knowledge-series   
 A collection of articles sharing lessons from my Master’s in Data Analytics.
 - Folder: [`data-analytics-knowledge-series`](./data-analytics-knowledge-series)
