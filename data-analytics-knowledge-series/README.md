@@ -61,7 +61,13 @@ https://medium.com/@ro.aissdz/data-mining-vs-real-insight-avoiding-false-pattern
 
 ---
 
+### **Part 7 — My Data Analytics Journey**
+**Data Storytelling: How Analysis Becomes a Story**   
 
+Read the article:                              
+https://medium.com/@ro.aissdz/data-storytelling-how-analysis-becomes-a-story-c582e477eada
+
+---
 
 ## 📅 Publishing Schedule
 
