@@ -1,17 +1,22 @@
-
 # 🧭 Series 1 — The Data Analytics Life Cycle
-This series documents my journey through the data analytics lifecycle, showing how each step builds on the previous one—from defining the problem to presenting actionable insights. The series includes:
+
+This series walks through the full data analytics lifecycle, showing how each step builds on the previous one — from defining a problem to turning insights into a clear story. Below are all seven parts of the series.
+
 ---
+
 ## **Part 1 — Understanding the 7 Phases of Data Work**
-Read the article:   
+  
 https://medium.com/@ro.aissdz/understanding-the-7-phases-of-data-work-916827870c64
+
 ---
+
 ## **Part 2 — Before You Touch Data: Business Understanding & Data Collection**   
-Read the article:   
+
 https://medium.com/@ro.aissdz/before-you-touch-data-business-understanding-data-collection-31a845fa6838
+
 ---
 ### **Part 3 — Why Data Cleaning Takes 80% of a Data Analyst’s Time**   
-Read the article:    
+  
 https://medium.com/@ro.aissdz/why-data-cleaning-takes-80-of-a-data-analysts-time-fec9a913e803
 ---
 ### **Part 4 — Exploratory Data Analysis: Where Data Starts Making Sense**   
