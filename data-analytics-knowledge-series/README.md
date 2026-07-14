@@ -1,74 +1,25 @@
 # 📊 Data Analytics Knowledge Series
 
-A collection of articles sharing lessons from my Master’s in Data Analytics.
+A collection of articles where I share the lessons, stories, and insights from my Master’s in Data Analytics and Data Engineering.
+If you want to know why I started this project, begin with the introduction:
 
----
+### Introduction — Turning My Master’s Degree into Stories
 
-## 🧭 Series 1 — The Data Analytics Life Cycle
-
-### **Part 0 — Introduction**
-**Turning My Master’s Degree Into Stories**
-
-Read the article:  
 https://medium.com/@ro.aissdz/turning-my-masters-degree-into-stories-dd32eacb98c0
 
 ---
 
-### **Part 1 — My Data Analytics Journey**
-**Understanding the 7 Phases of Data Work**
+## 📁 Series Overview
 
-Read the article:   
-https://medium.com/@ro.aissdz/understanding-the-7-phases-of-data-work-916827870c64
-
----
-
-### **Part 2 — My Data Analytics Journey**
-**Before You Touch Data: Business Understanding & Data Collection**   
-
-Read the article:   
-https://medium.com/@ro.aissdz/before-you-touch-data-business-understanding-data-collection-31a845fa6838
-
----
-### **Part 3 — My Data Analytics Journey**
-**Why Data Cleaning Takes 80% of a Data Analyst’s Time**   
-
-Read the article:    
-https://medium.com/@ro.aissdz/why-data-cleaning-takes-80-of-a-data-analysts-time-fec9a913e803
+### Series 1 — The Data Analytics Life Cycle
+- Status: Completed  
+- Focus: Understanding the full analytics process, from defining a problem to communicating insights.
 
 ---
 
-### **Part 4 — My Data Analytics Journey**
-**Exploratory Data Analysis: Where Data Starts Making Sense**   
-
-Read the article:         
-https://medium.com/@ro.aissdz/exploratory-data-analysis-where-data-starts-making-sense-fa9cb9f68250
+### Series 2 — Building my Data Foundation
+- Status: In progress 
+- Focus: The tools that shaped my growth as an analyst — SQL, Python, Excel, Tableau, and Power BI. 
 
 ---
 
-### **Part 5 — My Data Analytics Journey**
-**My First Experience with Data Modeling**   
-
-Read the article:              
-https://medium.com/@ro.aissdz/my-first-experience-with-data-modeling-b539e40802af
-
----
-
-### **Part 6 — My Data Analytics Journey**
-**Data Mining vs Real Insight: Avoiding False Patterns**   
-
-Read the article:                    
-https://medium.com/@ro.aissdz/data-mining-vs-real-insight-avoiding-false-patterns-02afd159b57e
-
----
-
-### **Part 7 — My Data Analytics Journey**
-**Data Storytelling: How Analysis Becomes a Story**   
-
-Read the article:                              
-https://medium.com/@ro.aissdz/data-storytelling-how-analysis-becomes-a-story-c582e477eada
-
----
-
-## 📅 Publishing Schedule
-
-New article every week.
