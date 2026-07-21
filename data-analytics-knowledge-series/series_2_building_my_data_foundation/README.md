@@ -10,7 +10,7 @@ https://medium.com/the-analytics-playbook/sql-when-data-starts-talking-04423d1f5
 
 ---
 
-## **Part 2 — I Used to Fear Python — Now It’s My Favorite Data Tool     
+## **Part 2 — I Used to Fear Python — Now It’s My Favorite Data Tool**    
 
 https://medium.com/the-analytics-playbook/i-used-to-fear-python-now-its-my-favorite-data-tool-362e49c54abd
 
