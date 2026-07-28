@@ -15,3 +15,8 @@ https://medium.com/the-analytics-playbook/sql-when-data-starts-talking-04423d1f5
 https://medium.com/the-analytics-playbook/i-used-to-fear-python-now-its-my-favorite-data-tool-362e49c54abd
 
 ---
+## **Part 3 — Tableau: Turning Raw Numbers into Visual Stories**          
+
+https://medium.com/the-analytics-playbook/tableau-turning-raw-numbers-into-visual-stories-0417bd3238e0
+
+---
