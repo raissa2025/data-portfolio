@@ -20,3 +20,9 @@ https://medium.com/the-analytics-playbook/i-used-to-fear-python-now-its-my-favor
 https://medium.com/the-analytics-playbook/tableau-turning-raw-numbers-into-visual-stories-0417bd3238e0
 
 ---
+
+## **Part 4 — Power BI: The Tool That Connected Everything I Had Learned**               
+
+https://medium.com/the-analytics-playbook/power-bi-the-tool-that-connected-everything-i-had-learned-1f8fa335392e
+
+---
