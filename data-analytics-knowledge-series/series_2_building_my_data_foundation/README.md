@@ -26,3 +26,11 @@ https://medium.com/the-analytics-playbook/tableau-turning-raw-numbers-into-visua
 https://medium.com/the-analytics-playbook/power-bi-the-tool-that-connected-everything-i-had-learned-1f8fa335392e
 
 ---
+
+## **Part 5 — Why Excel Was the Missing Piece in My Data Analytics Foundation**     
+
+https://medium.com/the-analytics-playbook/why-excel-was-the-missing-piece-in-my-data-analytics-foundation-27d99ac8ce69
+
+---
+
+
