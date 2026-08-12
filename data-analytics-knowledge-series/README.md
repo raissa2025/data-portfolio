@@ -18,7 +18,7 @@ https://medium.com/@ro.aissdz/turning-my-masters-degree-into-stories-dd32eacb98c
 ---
 
 ### Series 2 — Building my Data Foundation
-- Status: In progress 
+- Status: Completed  
 - Focus: The tools that shaped my growth as an analyst — SQL, Python, Excel, Tableau, and Power BI. 
 
 ---
