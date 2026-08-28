@@ -48,7 +48,7 @@ This project was created to:
 - Which product category generates the highest sales?
 - Which region performs best?
 - How do sales change over time?
-- What are the top 10 best-selling products?
+- What are the top 5 best-selling products?
 - How does profit margin change with different filters?
 
 ---
