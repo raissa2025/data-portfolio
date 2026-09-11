@@ -23,3 +23,8 @@ https://medium.com/@ro.aissdz/turning-my-masters-degree-into-stories-dd32eacb98c
 
 ---
 
+### Series 3 — IF I COULD START MY MASTER’S DEGREE AGAIN
+- Status: In Progress  
+- Focus: What I missed, what I learned, and what I would do differently if I could start again.
+  
+---
