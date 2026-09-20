@@ -7,6 +7,8 @@ When I think about it now, I don't see it as a failure. I learned a lot, built t
 
 ## **Part 1 — I Thought My Master’s Degree Would Include an Internship. I Was Wrong**
 
+https://medium.com/age-of-awareness/i-thought-my-masters-degree-would-include-an-internship-i-was-wrong-02bb887e0458
+
 
 ---
 
