@@ -9,11 +9,11 @@ When I think about it now, I don't see it as a failure. I learned a lot, built t
 
 https://medium.com/age-of-awareness/i-thought-my-masters-degree-would-include-an-internship-i-was-wrong-02bb887e0458
 
-
 ---
 
-## **Part 2 — I Would Build My Portfolio From Day One**    
+## **Part 2 — I Would Build My Portfolio From Day One**  
 
+https://medium.com/age-of-awareness/i-would-build-my-portfolio-from-day-one-2119b68aa332
 
 ---
 ## **Part 3 — I Would Learn the Basics Before My First Class**          
