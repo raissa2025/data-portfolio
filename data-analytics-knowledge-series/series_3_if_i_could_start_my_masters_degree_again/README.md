@@ -16,8 +16,9 @@ https://medium.com/age-of-awareness/i-thought-my-masters-degree-would-include-an
 https://medium.com/age-of-awareness/i-would-build-my-portfolio-from-day-one-2119b68aa332
 
 ---
-## **Part 3 — I Would Learn the Basics Before My First Class**          
+## **Part 3 — I Would Learn the Basics Before My First Class**   
 
+https://medium.com/age-of-awareness/i-would-learn-the-basics-before-my-first-class-00d2e24f0fd2
 
 ---
 
