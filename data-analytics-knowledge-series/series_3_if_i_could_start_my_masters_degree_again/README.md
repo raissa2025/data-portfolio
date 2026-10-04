@@ -24,6 +24,7 @@ https://medium.com/age-of-awareness/i-would-learn-the-basics-before-my-first-cla
 
 ## **Part 4 — I Would Volunteer My Data Skills to Get Experience**               
 
+https://medium.com/age-of-awareness/i-would-volunteer-my-data-skills-to-get-experience-02d6d42a3369
 
 ---
 
