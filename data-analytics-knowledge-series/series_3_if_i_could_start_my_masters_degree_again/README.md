@@ -30,7 +30,7 @@ https://medium.com/age-of-awareness/i-would-volunteer-my-data-skills-to-get-expe
 
 ## **Part 5 — I Would Choose a Part-Time Job in Data**     
 
-
+https://medium.com/age-of-awareness/i-would-choose-a-part-time-job-in-data-11fbe83e7466
 
 ---
 
